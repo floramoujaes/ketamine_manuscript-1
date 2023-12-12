@@ -1,0 +1,9 @@
+-------------------
+Copyright (c) 2023 Yale University
+Authored by: Flora Moujaes, Jie Lisa Ji, Masih Rahmati, Joshua B. Burt, Charles H. Schleifer, Brendan D. Adkinson, Aleksandar Savič, Nicole Santamauro, Zailyn Tamayo, Caroline Diehl, Antonija Kolobaric, Morgan Flynn, Nathalie M. Rieser, Clara Fonteneau, Terry Camarro, Junqian Xu, Youngsun T. Cho, Grega Repovš, Sarah K. Fineberg, Peter T. Morgan, Erich Seifritz, Franz X. Vollenweider, John Krystal, John D. Murray, Katrin H. Preller, Alan Anticevic
+Please cite: Moujaes, F., Ji, J.L., Rahmati, M., Burt, J., Schleifer, C.H., Adkinson, B., Savič, A., Santamauro, N., Tamayo, Z., Diehl, C. and Kolobaric, A., 2022. Ketamine induces multiple individually distinct whole-brain functional connectivity signatures. bioRxiv, pp.2022-11.
+
+This dataset is free for non-commercial use by academic, government, and non-profit/not-for-profit institutions.
+
+BY DOWNLOADING THIS DATASET YOU AGREE THAT THE DATASET PROVIDED HEREUNDER IS EXPERIMENTAL AND IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF ANY THIRD-PARTY PATENT, COPYRIGHT, OR ANY OTHER THIRD-PARTY RIGHT. IN NO EVENT SHALL THE CREATORS OF THE DATASET OR YALE UNIVERSITY BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE DATASET, THE USE OF THE DATASET, OR THIS AGREEMENT, WHETHER IN BREACH OF CONTRACT, TORT OR OTHERWISE, EVEN IF SUCH PARTY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------
