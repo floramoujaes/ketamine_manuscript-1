@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	0.142098634	-0.486538359062456
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	5	3.21319718896369
+observed	Positive	PANSS_p3	4	2	-0.577003934354711
+observed	Positive	PANSS_p4	5	2	1.88487643802072
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	1	0.682260892585628
+observed	Positive	PANSS_p7	8	1	2.21004971390413
+observed	Negative	PANSS_n1	9	3	1.23301032110159
+observed	Negative	PANSS_n2	10	4	2.53358336308792
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	4	2.23799104804866
+observed	Negative	PANSS_n5	13	4	3.61612819715738
+observed	Negative	PANSS_n6	14	3	1.75532409707215
+observed	Negative	PANSS_n7	15	2	1.17222808286551
+observed	General	PANSS_g1	16	1	-0.469655046151197
+observed	General	PANSS_g2	17	2	0.860302298500639
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	2	1.72433589146872
+observed	General	PANSS_g5	20	0	-0.762096460440271
+observed	General	PANSS_g6	21	2	3.11682620529212
+observed	General	PANSS_g7	22	3	1.16455263282079
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	3	0.99276833775283
+observed	General	PANSS_g10	25	5	2.9510440464483
+observed	General	PANSS_g11	26	4	2.44973693850576
+observed	General	PANSS_g12	27	3	2.94641756351725
+observed	General	PANSS_g13	28	2	1.98507870847591
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	1	0.398228081389339
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-8.33799223881244	-2.79721267362243
+derived	PCA Scores	PCA2	37	0.891536104262997	0.453658078864492
+derived	ICA Scores	ICA1	38	2.78342720072738	2.7484141440484
+derived	ICA Scores	ICA2	39	-0.494991081737507	-0.488764530960129

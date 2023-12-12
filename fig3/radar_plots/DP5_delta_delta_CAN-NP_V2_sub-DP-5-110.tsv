@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	4.018671046	1.54244557642495
+observed	Positive	PANSS_p1	2	0	-1.53872400136237
+observed	Positive	PANSS_p2	3	1	-0.352477265592765
+observed	Positive	PANSS_p3	4	2	-0.577003934354711
+observed	Positive	PANSS_p4	5	0	-0.506721919072965
+observed	Positive	PANSS_p5	6	1	0.733934510399176
+observed	Positive	PANSS_p6	7	0	-0.556845287273289
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	0	-1.23745560390834
+observed	Negative	PANSS_n2	10	0	-1.03304740781075
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	2	0.755996976014102
+observed	Negative	PANSS_n5	13	1	0.30599725945352
+observed	Negative	PANSS_n6	14	0	-0.951637725855761
+observed	Negative	PANSS_n7	15	0	-0.899616900837492
+observed	General	PANSS_g1	16	2	0.341567306321279
+observed	General	PANSS_g2	17	1	0.0742554388188833
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	0	-0.661719935908191
+observed	General	PANSS_g5	20	1	0.443268485530284
+observed	General	PANSS_g6	21	1	1.49208598855675
+observed	General	PANSS_g7	22	2	0.261430182870765
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	1	-0.722013336535821
+observed	General	PANSS_g10	25	0	-1.23968734184295
+observed	General	PANSS_g11	26	2	0.585068144038632
+observed	General	PANSS_g12	27	0	-0.627872337537074
+observed	General	PANSS_g13	28	0	-0.710190779337768
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	0	-0.77043333771847
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	1.78021381709414	0.597222509725281
+derived	PCA Scores	PCA2	37	0.00716613096280398	0.00364648519553171
+derived	ICA Scores	ICA1	38	-0.589988407926945	-0.582566874659868
+derived	ICA Scores	ICA2	39	0.934501135045692	0.922745935844013

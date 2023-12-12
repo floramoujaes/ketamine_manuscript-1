@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	1.464256416	0.205474226992561
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	0	-1.24389587923188
+observed	Positive	PANSS_p3	4	1	-1.57364709373091
+observed	Positive	PANSS_p4	5	3	3.08067561656757
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	0	-0.556845287273289
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	0	-1.23745560390834
+observed	Negative	PANSS_n2	10	0	-1.03304740781075
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	0	-0.725997096020452
+observed	Negative	PANSS_n5	13	0	-0.797379719781101
+observed	Negative	PANSS_n6	14	0	-0.951637725855761
+observed	Negative	PANSS_n7	15	0	-0.899616900837492
+observed	General	PANSS_g1	16	1	-0.469655046151197
+observed	General	PANSS_g2	17	0	-0.711791420862873
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	0	-0.661719935908191
+observed	General	PANSS_g5	20	0	-0.762096460440271
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	0	-1.54481471702929
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	4	1.85015917489716
+observed	General	PANSS_g10	25	0	-1.23968734184295
+observed	General	PANSS_g11	26	0	-1.27960065042849
+observed	General	PANSS_g12	27	0	-0.627872337537074
+observed	General	PANSS_g13	28	0	-0.710190779337768
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	0	-0.953626922965818
+observed	General	PANSS_g16	31	0	-0.77043333771847
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	2.98210392865747	1.00043015924994
+derived	PCA Scores	PCA2	37	0.645295555434423	0.328358594316465
+derived	ICA Scores	ICA1	38	-1.14194063530223	-1.12757603033702
+derived	ICA Scores	ICA2	39	0.348187879059396	0.343807982958196

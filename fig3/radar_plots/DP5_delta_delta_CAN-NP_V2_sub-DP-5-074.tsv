@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	0.015844293	-0.552619423066724
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	1	-0.352477265592765
+observed	Positive	PANSS_p3	4	4	1.41628238439768
+observed	Positive	PANSS_p4	5	1	0.68907725947388
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	2	1.92136707244454
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	0	-1.23745560390834
+observed	Negative	PANSS_n2	10	1	-0.141389715086082
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	0	-0.725997096020452
+observed	Negative	PANSS_n5	13	1	0.30599725945352
+observed	Negative	PANSS_n6	14	1	-0.0493171182131233
+observed	Negative	PANSS_n7	15	1	0.136305591014009
+observed	General	PANSS_g1	16	3	1.15278965879375
+observed	General	PANSS_g2	17	1	0.0742554388188833
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	0	-0.661719935908191
+observed	General	PANSS_g5	20	1	0.443268485530284
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	2	0.261430182870765
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	3	0.99276833775283
+observed	General	PANSS_g10	25	1	-0.401541064184701
+observed	General	PANSS_g11	26	2	0.585068144038632
+observed	General	PANSS_g12	27	1	0.563557629481035
+observed	General	PANSS_g13	28	1	0.637443964569069
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	0	-0.77043333771847
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-0.03561278898719	-0.0119473059994353
+derived	PCA Scores	PCA2	37	1.6927970728147	0.861379661786539
+derived	ICA Scores	ICA1	38	-0.107822637399542	-0.106466323818371
+derived	ICA Scores	ICA2	39	-0.0107564359934682	-0.0106211295255984

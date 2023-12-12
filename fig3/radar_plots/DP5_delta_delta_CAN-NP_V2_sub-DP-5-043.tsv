@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	0.511255117	-0.293323195231272
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	3	1.43035996168546
+observed	Positive	PANSS_p3	4	2	-0.577003934354711
+observed	Positive	PANSS_p4	5	1	0.68907725947388
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	0	-0.556845287273289
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	3	1.23301032110159
+observed	Negative	PANSS_n2	10	2	0.750267977638585
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	2	0.755996976014102
+observed	Negative	PANSS_n5	13	1	0.30599725945352
+observed	Negative	PANSS_n6	14	2	0.853003489429515
+observed	Negative	PANSS_n7	15	1	0.136305591014009
+observed	General	PANSS_g1	16	2	0.341567306321279
+observed	General	PANSS_g2	17	2	0.860302298500639
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	2	1.72433589146872
+observed	General	PANSS_g5	20	0	-0.762096460440271
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	2	0.261430182870765
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	1	-0.722013336535821
+observed	General	PANSS_g10	25	2	0.43660521347355
+observed	General	PANSS_g11	26	2	0.585068144038632
+observed	General	PANSS_g12	27	1	0.563557629481035
+observed	General	PANSS_g13	28	1	0.637443964569069
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	2	1.56688950049715
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-2.76967947965427	-0.929166437250647
+derived	PCA Scores	PCA2	37	-0.498036206045148	-0.253425685576892
+derived	ICA Scores	ICA1	38	1.0298320284629	1.0168776507903
+derived	ICA Scores	ICA2	39	-0.49562890099493	-0.489394327014429

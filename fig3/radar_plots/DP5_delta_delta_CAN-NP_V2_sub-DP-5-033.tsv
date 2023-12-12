@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	2.203614606	0.592451621104255
+observed	Positive	PANSS_p1	2	3	1.70969333479895
+observed	Positive	PANSS_p2	3	3	1.43035996168546
+observed	Positive	PANSS_p3	4	4	1.41628238439768
+observed	Positive	PANSS_p4	5	1	0.68907725947388
+observed	Positive	PANSS_p5	6	2	1.86224461868021
+observed	Positive	PANSS_p6	7	2	1.92136707244454
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	2	0.409521679431613
+observed	Negative	PANSS_n2	10	1	-0.141389715086082
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	1	0.0149999399968247
+observed	Negative	PANSS_n5	13	2	1.40937423868814
+observed	Negative	PANSS_n6	14	1	-0.0493171182131233
+observed	Negative	PANSS_n7	15	1	0.136305591014009
+observed	General	PANSS_g1	16	2	0.341567306321279
+observed	General	PANSS_g2	17	2	0.860302298500639
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	1	0.531307977780263
+observed	General	PANSS_g5	20	2	1.64863343150084
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	2	0.261430182870765
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	4	1.85015917489716
+observed	General	PANSS_g10	25	2	0.43660521347355
+observed	General	PANSS_g11	26	1	-0.347266253194931
+observed	General	PANSS_g12	27	2	1.75498759649914
+observed	General	PANSS_g13	28	0	-0.710190779337768
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	3	2.34072062902804
+observed	General	PANSS_g16	31	1	0.398228081389339
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-2.66893390606336	-0.895368517177263
+derived	PCA Scores	PCA2	37	3.52139016242435	1.79185911639367
+derived	ICA Scores	ICA1	38	0.777383309649591	0.767604513971033
+derived	ICA Scores	ICA2	39	1.32315396976959	1.30650986105123

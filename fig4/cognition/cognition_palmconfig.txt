@@ -1,0 +1,16 @@
+# Configuration file for PALM.
+# Version (github, running in Octave 4.4.1.
+# 09-Mar-2022 08:10:44
+
+-i /gpfs/project/fas/n3/Studies/Anticevic.DP5/analysis/N40_GBC_mVWMWB1d/parcel_results/palm_behaviour/cognition__i1_cifti.ptseries.nii
+-d /gpfs/project/fas/n3/Studies/Anticevic.DP5/analysis/N40_GBC_mVWMWB1d/parcel_results/palm_behaviour/cognition_d.csv
+-t /gpfs/project/fas/n3/Studies/Anticevic.DP5/analysis/N40_GBC_mVWMWB1d/parcel_results/palm_behaviour/cognition_t.csv
+-eb /gpfs/project/fas/n3/Studies/Anticevic.DP5/analysis/N40_GBC_mVWMWB1d/parcel_results/palm_behaviour/cognition_eb.csv
+-n 500
+-zstat
+-transposedata
+-within
+-whole
+-fdr
+-demean
+-o /gpfs/project/fas/n3/Studies/Anticevic.DP5/analysis/N40_GBC_mVWMWB1d/parcel_results/palm_behaviour/cognition_

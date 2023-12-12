@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	1.002142453	-0.0363945446029324
+observed	Positive	PANSS_p1	2	1	-0.455918222641929
+observed	Positive	PANSS_p2	3	2	0.53894134804635
+observed	Positive	PANSS_p3	4	4	1.41628238439768
+observed	Positive	PANSS_p4	5	0	-0.506721919072965
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	0	-0.556845287273289
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	0	-1.23745560390834
+observed	Negative	PANSS_n2	10	0	-1.03304740781075
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	0	-0.725997096020452
+observed	Negative	PANSS_n5	13	0	-0.797379719781101
+observed	Negative	PANSS_n6	14	0	-0.951637725855761
+observed	Negative	PANSS_n7	15	0	-0.899616900837492
+observed	General	PANSS_g1	16	0	-1.28087739862367
+observed	General	PANSS_g2	17	-2	-2.28388514022639
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	0	-0.661719935908191
+observed	General	PANSS_g5	20	-1	-1.96746140641083
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	0	-1.54481471702929
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	2	0.135377500608504
+observed	General	PANSS_g10	25	3	1.2747514911318
+observed	General	PANSS_g11	26	0	-1.27960065042849
+observed	General	PANSS_g12	27	0	-0.627872337537074
+observed	General	PANSS_g13	28	0	-0.710190779337768
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	0	-0.77043333771847
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	3.19523731864407	1.07193171532809
+derived	PCA Scores	PCA2	37	0.786340327297955	0.400129215754602
+derived	ICA Scores	ICA1	38	-1.10064726753451	-1.08680209667763
+derived	ICA Scores	ICA2	39	0.240299792946744	0.237277033713741

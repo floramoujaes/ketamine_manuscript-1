@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	2.990596056	1.00435485671356
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	2	0.53894134804635
+observed	Positive	PANSS_p3	4	3	0.419639225021486
+observed	Positive	PANSS_p4	5	1	0.68907725947388
+observed	Positive	PANSS_p5	6	0	-0.394375597881861
+observed	Positive	PANSS_p6	7	0	-0.556845287273289
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	2	0.409521679431613
+observed	Negative	PANSS_n2	10	2	0.750267977638585
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	1	0.0149999399968247
+observed	Negative	PANSS_n5	13	1	0.30599725945352
+observed	Negative	PANSS_n6	14	2	0.853003489429515
+observed	Negative	PANSS_n7	15	1	0.136305591014009
+observed	General	PANSS_g1	16	3	1.15278965879375
+observed	General	PANSS_g2	17	3	1.6463491581824
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	1	0.531307977780263
+observed	General	PANSS_g5	20	2	1.64863343150084
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	3	1.16455263282079
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	2	0.135377500608504
+observed	General	PANSS_g10	25	4	2.11289776879005
+observed	General	PANSS_g11	26	2	0.585068144038632
+observed	General	PANSS_g12	27	1	0.563557629481035
+observed	General	PANSS_g13	28	1	0.637443964569069
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	2	1.56688950049715
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-3.05763764092861	-1.0257700553783
+derived	PCA Scores	PCA2	37	0.883410447287625	0.449523338930424
+derived	ICA Scores	ICA1	38	1.06412063116724	1.05073493314626
+derived	ICA Scores	ICA2	39	1.00403044970948	0.991400633117225

@@ -1,0 +1,40 @@
+feature_type	feature_tag	feature	index	score	z_score
+observed	Cognitive	BACS_Comp	1	3.273837033	1.1526021564224
+observed	Positive	PANSS_p1	2	2	0.626887556078512
+observed	Positive	PANSS_p2	3	1	-0.352477265592765
+observed	Positive	PANSS_p3	4	4	1.41628238439768
+observed	Positive	PANSS_p4	5	0	-0.506721919072965
+observed	Positive	PANSS_p5	6	1	0.733934510399176
+observed	Positive	PANSS_p6	7	1	0.682260892585628
+observed	Positive	PANSS_p7	8	0	-0.191191984037742
+observed	Negative	PANSS_n1	9	2	0.409521679431613
+observed	Negative	PANSS_n2	10	2	0.750267977638585
+observed	Negative	PANSS_n3	11	0	-0.412314478174529
+observed	Negative	PANSS_n4	12	2	0.755996976014102
+observed	Negative	PANSS_n5	13	1	0.30599725945352
+observed	Negative	PANSS_n6	14	0	-0.951637725855761
+observed	Negative	PANSS_n7	15	1	0.136305591014009
+observed	General	PANSS_g1	16	0	-1.28087739862367
+observed	General	PANSS_g2	17	1	0.0742554388188833
+observed	General	PANSS_g3	18	0	-0.141508646836056
+observed	General	PANSS_g4	19	1	0.531307977780263
+observed	General	PANSS_g5	20	1	0.443268485530284
+observed	General	PANSS_g6	21	0	-0.132654228178624
+observed	General	PANSS_g7	22	3	1.16455263282079
+observed	General	PANSS_g8	23	0	-0.212397697632056
+observed	General	PANSS_g9	24	4	1.85015917489716
+observed	General	PANSS_g10	25	0	-1.23968734184295
+observed	General	PANSS_g11	26	2	0.585068144038632
+observed	General	PANSS_g12	27	2	1.75498759649914
+observed	General	PANSS_g13	28	1	0.637443964569069
+observed	General	PANSS_g14	29	0	-0.166548084897857
+observed	General	PANSS_g15	30	1	0.1444889276988
+observed	General	PANSS_g16	31	2	1.56688950049715
+derived	Total	Cognitive_total	32	NA	NA
+derived	Total	Positive_total	33	NA	NA
+derived	Total	Negative_total	34	NA	NA
+derived	Total	General_total	35	NA	NA
+derived	PCA Scores	PCA1	36	-1.74299414184661	-0.584736128792247
+derived	PCA Scores	PCA2	37	1.25096433640647	0.636553107460853
+derived	ICA Scores	ICA1	38	0.481380452755903	0.4753251116742
+derived	ICA Scores	ICA2	39	1.27983889100332	1.26373964773267
